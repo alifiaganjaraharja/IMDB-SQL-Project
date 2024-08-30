@@ -26,6 +26,11 @@ To interpret the result:
 2. A **negative correlation coefficient close to -1** would indicate that *directors who produce more movies tend to have lower average ratings*.
 3. A **coefficient close to 0** would suggest *no significant relationship between the number of movies produced and the average rating*.
 
+Turned out, the result of the Correlation Coefficient number is **r = 0.163** which indicates that there is a slight positive correlation, but it is very weak, suggesting that the number of movies a director produces does not have a significant impact on the average IMDB rating of their movies.
+
+There may be other factors that affect the higher ratings some directors receive, which could lead to further potential analyses.
+
+Next, I wanted to find out about which Movie Genre is the most favorite since 5 years ago. 
 
 
 
