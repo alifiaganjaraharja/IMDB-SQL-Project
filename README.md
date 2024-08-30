@@ -19,7 +19,14 @@ For this analysis, I used SQL (specifically BigQuery) to practice my skills in w
 
 
 ## Results and Insights :
-What you found from the data
+At first, I assumed that there is a correlation between the total number of movies produced by a director and the IMDB rating. My hypothesis is: **The more movies a director produces, the higher the IMDB rating they receive.** To determine if my hypothesis was correct, I calculated the correlation coefficient between these two metrics (total movies and average IMDB rating).
+
+To interpret the result:
+1. A **positive correlation coefficient close to +1** would indicate that *directors who produce more movies tend to have higher average ratings*.
+2. A **negative correlation coefficient close to -1** would indicate that *directors who produce more movies tend to have lower average ratings*.
+3. A **coefficient close to 0** would suggest *no significant relationship between the number of movies produced and the average rating*.
+
+
 
 
 ## How to Run the Project  :
