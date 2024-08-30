@@ -30,7 +30,7 @@ Turned out, the result of the Correlation Coefficient number is **r = 0.163** wh
 
 There may be other factors that affect the higher ratings some directors receive, which could lead to further potential analyses.
 
-Next, I wanted to find out about which Movie Genre is the most favorite since 5 years ago. 
+Next, I wanted to find out about which Movie Genre is the most favorite since 5 years ago which movies that released from 2019. 2019 marks the beginning of
 
 
 
