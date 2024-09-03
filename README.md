@@ -32,12 +32,10 @@ There may be other factors that affect the higher ratings some directors receive
 
 Next, I wanted to find out which movie genre has been the most popular since 2019. As we know, 2019 marks the beginning of the pandemic, and I assumed that most people, being obligated to stay at home, spent more time watching movies. So, I wondered what the top 10 movie genres released from 2019 to 2024 were.
 
-The result .... [insert more caption to direct to the Data Visualization]
 ![IMDb Top 10 Movie Genre Data Visualization](https://github.com/alifiaganjaraharja/IMDB-SQL-Project/blob/main/MostFavoriteGenre.png?raw=true)
+Here are the results: based on this visualization above, out of 17 movie genres, the top 10 are Documentary, Adventure, Animation, Biography, History, Sci-Fi, Action, Drama, Fantasy, and Comedy.
 
 Lastly, I wanted to identify the top-rated movies in general. Movies with an IMDb rating of at least 8.0 are considered top-rated.
 
 The result, ... [insert more caption about this]
 
-## How to Run the Project  :
-Instructions for others to replicate your work.
