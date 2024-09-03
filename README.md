@@ -26,13 +26,17 @@ To interpret the result:
 2. A **negative correlation coefficient close to -1** would indicate that *directors who produce more movies tend to have lower average ratings*.
 3. A **coefficient close to 0** would suggest *no significant relationship between the number of movies produced and the average rating*.
 
-Turned out, the result of the Correlation Coefficient number is **r = 0.163** which indicates that there is a slight positive correlation, but it is very weak, suggesting that the number of movies a director produces does not have a significant impact on the average IMDB rating of their movies.
+Turned out, the result of the Correlation Coefficient number is **r = 0.163** which indicates that there is a slight positive correlation, but it is very weak, suggesting that **the number of movies a director produces does not have a significant impact on the average IMDB rating of their movies**.
 
 There may be other factors that affect the higher ratings some directors receive, which could lead to further potential analyses.
 
-Next, I wanted to find out about which Movie Genre is the most favorite since 5 years ago which movies that released from 2019. 2019 marks the beginning of
+Next, I wanted to find out which movie genre has been the most popular since 2019. As we know, 2019 marks the beginning of the pandemic, and I assumed that most people, being obligated to stay at home, spent more time watching movies. So, I wondered what the top 10 movie genres released from 2019 to 2024 were.
 
+The result .... [insert more caption to direct to the Data Visualization]
 
+Lastly, I wanted to identify the top-rated movies in general. Movies with an IMDb rating of at least 8.0 are considered top-rated.
+
+The result, ... [insert more caption about this]
 
 ## How to Run the Project  :
 Instructions for others to replicate your work.
