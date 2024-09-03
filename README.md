@@ -37,5 +37,5 @@ Here are the results: based on this visualization above, out of 17 movie genres,
 
 Lastly, I wanted to identify the top-rated movies in general. Movies with an IMDb rating of at least 8.0 are considered top-rated.
 
-From a total of 3,167 movies, 277 movies that have an IMDb rating of at least 8.0 are considered top-rated. Navigate and open the file in this repository with the name '[insert file name here]' to access and see the CSV result.
+From a total of 3,167 movies, 277 movies that have an IMDb rating of at least 8.0 are considered top-rated. Navigate and open the file in this repository with the name 'TopRatedMovies.CSV' to access and see the CSV result.
 
